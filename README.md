@@ -15,3 +15,22 @@ git clone
 ```bash
 git pull
 ```
+
+
+- Verificar o status dos arquivos
+
+```bash
+git status
+```
+
+- Criar um pacote zipado de todos so arquivos para envio
+
+```bash
+git add .
+```
+
+- Enviar atualização dos arquivos para o repositório
+
+```bash
+git commit
+```
