@@ -1,2 +1,2 @@
 # repositorio-teste
-Teste de Ciração de Repositório
+Teste de Criação de Repositório
