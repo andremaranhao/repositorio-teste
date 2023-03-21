@@ -4,13 +4,13 @@
 
 Exercício de Teste de Criação de Repositório
 
-Clonar o repositório
+- Clonar o repositório
 
 ```bash
 git clone 
 ```
 
-Atualizar o repositório
+- Atualizar o repositório
 
 ```bash
 git pull
